@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Anantara Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #fff;
+      padding: 40px;
+    }
+    button {
+      padding: 12px 24px;
+      margin: 10px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .correct { color: #4CAF50; }
+    .wrong { color: #F44336; }
+  </style>
+</head>
+<body>
+
+<h1>Anantara Knowledge Quiz</h1>
+<div id="quiz"></div>
+<div id="result"></div>
+
+<script>
+let questions = [];
+let index = 0;
+
+fetch("anantara_quiz_200_questions.json")
+  .then(res => res.json())
+  .then(data => {
+    questions = data;
+    showQuestion();
+  });
+
+function showQuestion() {
+  const q = questions[index];
+  document.getElementById("quiz").innerHTML = `
+    <h3>${q.question}</h3>
+    <button onclick="answer('Yes')">Yes</button>
+    <button onclick="answer('No')">No</button>
+  `;
+  document.getElementById("result").innerHTML = "";
+}
+
+function answer(choice) {
+  const q = questions[index];
+  if (choice === q.answer) {
+    document.getElementById("result").innerHTML =
+      `<p class="correct">Correct ✔</p><p>${q.explanation}</p>`;
+  } else {
+    document.getElementById("result").innerHTML =
+      `<p class="wrong">Wrong ✘</p><p>Correct answer: ${q.answer}</p><p>${q.explanation}</p>`;
+  }
+  index++;
+  if (index < questions.length) {
+    setTimeout(showQuestion, 2500);
+  } else {
+    document.getElementById("quiz").innerHTML = "<h2>Quiz completed 🎉</h2>";
+  }
+}
+</script>
+
+</body>
+</html>
