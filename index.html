@@ -43,23 +43,23 @@ fetch("./anantara_quiz_200_questions.json")
     return res.json();
   })
   .then(data => {
-  if (!Array.isArray(data.categories)) {
-    throw new Error("Invalid JSON structure");
-  }
+    if (!data.categories || !Array.isArray(data.categories)) {
+      throw new Error("Invalid JSON structure: categories missing");
+    }
 
-  // Flatten all category questions into one array
-  questions = data.categories.flatMap(cat => cat.questions);
+    // Flatten all category questions
+    questions = data.categories.flatMap(cat => cat.questions || []);
 
-  if (questions.length === 0) {
-    throw new Error("No questions found");
-  }
+    if (questions.length === 0) {
+      throw new Error("No questions found after flattening");
+    }
 
-  showQuestion();
-})
+    showQuestion();
+  })
   .catch(err => {
-    console.error(err);
+    console.error("QUIZ LOAD ERROR:", err);
     document.getElementById("questionText").innerText =
-      "⚠️ Failed to load quiz questions.\nCheck JSON file path.";
+      "⚠️ Failed to load quiz questions.\nOpen DevTools → Console.";
   });
 
 function showQuestion() {
@@ -70,10 +70,12 @@ function showQuestion() {
 function answer(choice) {
   const q = questions[currentIndex];
 
+  const explanation = q.explanation || "No explanation provided.";
+
   alert(
     choice === q.answer
-      ? "✅ Correct!\n\n" + q.explanation
-      : "❌ Incorrect.\n\n" + q.explanation
+      ? "✅ Correct!\n\n" + explanation
+      : "❌ Incorrect.\n\n" + explanation
   );
 
   currentIndex++;
