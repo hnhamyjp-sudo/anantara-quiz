@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #1 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 2,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #2 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 3,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #3 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 4,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #4 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 5,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #5 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 6,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #6 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 7,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #7 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 8,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #8 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 9,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #9 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 10,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #10 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 11,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #11 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 12,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #12 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 13,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #13 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 14,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #14 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 15,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #15 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 16,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #16 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 17,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #17 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 18,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #18 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 19,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #19 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 20,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #20 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 21,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #21 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 22,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #22 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 23,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #23 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 24,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #24 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 25,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #25 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 26,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #26 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 27,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #27 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 28,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #28 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 29,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #29 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 30,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #30 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 31,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #31 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 32,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #32 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 33,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #33 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 34,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #34 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 35,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #35 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 36,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #36 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 37,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #37 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 38,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #38 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 39,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #39 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 40,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #40 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 41,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #41 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 42,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #42 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 43,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #43 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 44,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #44 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 45,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #45 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 46,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #46 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 47,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #47 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 48,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #48 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 49,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #49 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 50,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #50 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 51,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #51 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 52,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #52 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 53,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #53 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 54,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #54 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 55,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #55 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 56,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #56 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 57,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #57 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 58,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #58 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 59,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #59 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 60,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #60 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 61,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #61 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 62,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #62 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 63,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #63 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 64,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #64 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 65,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #65 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 66,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #66 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 67,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #67 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 68,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #68 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 69,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #69 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 70,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #70 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 71,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #71 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 72,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #72 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 73,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #73 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 74,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #74 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 75,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #75 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 76,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #76 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 77,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #77 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 78,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #78 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 79,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #79 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 80,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #80 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 81,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #81 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 82,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #82 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 83,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #83 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 84,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #84 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 85,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #85 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 86,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #86 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 87,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #87 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 88,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #88 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 89,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #89 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 90,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #90 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 91,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #91 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 92,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #92 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 93,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #93 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 94,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #94 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 95,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #95 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 96,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #96 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 97,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #97 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 98,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #98 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 99,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #99 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 100,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #100 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 101,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #101 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 102,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #102 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 103,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #103 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 104,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #104 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 105,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #105 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 106,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #106 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 107,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #107 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 108,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #108 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 109,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #109 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 110,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #110 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 111,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #111 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 112,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #112 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 113,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #113 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 114,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #114 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 115,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #115 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 116,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #116 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 117,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #117 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 118,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #118 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 119,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #119 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 120,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #120 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 121,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #121 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 122,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #122 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 123,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #123 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 124,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #124 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 125,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #125 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 126,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #126 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 127,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #127 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 128,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #128 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 129,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #129 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 130,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #130 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 131,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #131 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 132,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #132 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 133,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #133 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 134,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #134 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 135,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #135 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 136,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #136 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 137,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #137 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 138,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #138 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 139,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #139 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 140,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #140 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 141,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #141 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 142,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #142 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 143,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #143 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 144,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #144 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 145,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #145 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 146,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #146 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 147,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #147 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 148,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #148 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 149,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #149 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 150,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #150 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 151,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #151 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 152,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #152 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 153,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #153 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 154,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #154 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 155,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #155 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 156,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #156 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 157,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #157 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 158,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #158 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 159,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #159 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 160,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #160 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 161,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #161 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 162,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #162 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 163,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #163 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 164,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #164 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 165,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #165 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 166,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #166 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 167,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #167 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 168,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #168 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 169,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #169 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 170,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #170 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 171,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #171 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 172,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #172 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 173,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #173 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 174,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #174 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 175,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #175 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 176,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #176 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 177,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #177 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 178,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #178 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 179,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #179 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 180,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #180 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 181,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #181 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 182,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #182 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 183,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #183 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 184,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #184 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 185,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #185 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 186,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #186 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 187,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #187 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 188,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #188 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 189,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #189 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 190,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #190 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 191,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #191 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  },
+  {
+    "id": 192,
+    "category": "Points Definition",
+    "difficulty": "High",
+    "question": "Is statement #192 about Points Definition correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Points Definition policies as documented in AVC materials and internal references.",
+    "source": "AVC Points – Definitions"
+  },
+  {
+    "id": 193,
+    "category": "Club Escape",
+    "difficulty": "Easy",
+    "question": "Is statement #193 about Club Escape correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Club Escape policies as documented in AVC materials and internal references.",
+    "source": "Club Escape – Program Rules"
+  },
+  {
+    "id": 194,
+    "category": "China Collection",
+    "difficulty": "Medium",
+    "question": "Is statement #194 about China Collection correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official China Collection policies as documented in AVC materials and internal references.",
+    "source": "China Collection – Eligibility Rules"
+  },
+  {
+    "id": 195,
+    "category": "Global Traveller",
+    "difficulty": "High",
+    "question": "Is statement #195 about Global Traveller correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Global Traveller policies as documented in AVC materials and internal references.",
+    "source": "Global Traveller – Program Rules"
+  },
+  {
+    "id": 196,
+    "category": "Room Exchange",
+    "difficulty": "Easy",
+    "question": "Is statement #196 about Room Exchange correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Room Exchange policies as documented in AVC materials and internal references.",
+    "source": "Exchange Partner Notes"
+  },
+  {
+    "id": 197,
+    "category": "Cancellation Policy",
+    "difficulty": "Medium",
+    "question": "Is statement #197 about Cancellation Policy correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official Cancellation Policy policies as documented in AVC materials and internal references.",
+    "source": "Cancellation & Points Handling Rules"
+  },
+  {
+    "id": 198,
+    "category": "Booking Window",
+    "difficulty": "High",
+    "question": "Is statement #198 about Booking Window correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Booking Window policies as documented in AVC materials and internal references.",
+    "source": "Booking Window – Exchange Programs"
+  },
+  {
+    "id": 199,
+    "category": "AVC Login",
+    "difficulty": "Easy",
+    "question": "Is statement #199 about AVC Login correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "explanation": "This question checks understanding of official AVC Login policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Invitation Rules"
+  },
+  {
+    "id": 200,
+    "category": "Owner Roles",
+    "difficulty": "Medium",
+    "question": "Is statement #200 about Owner Roles correct according to official AVC rules?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "No",
+    "explanation": "This question checks understanding of official Owner Roles policies as documented in AVC materials and internal references.",
+    "source": "AVC Login – Owner Access"
+  }
+]
