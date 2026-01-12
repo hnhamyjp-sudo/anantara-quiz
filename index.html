@@ -43,12 +43,19 @@ fetch("./anantara_quiz_200_questions.json")
     return res.json();
   })
   .then(data => {
-    if (!Array.isArray(data) || data.length === 0) {
-      throw new Error("Question file is empty or invalid");
-    }
-    questions = data;
-    showQuestion();
-  })
+  if (!Array.isArray(data.categories)) {
+    throw new Error("Invalid JSON structure");
+  }
+
+  // Flatten all category questions into one array
+  questions = data.categories.flatMap(cat => cat.questions);
+
+  if (questions.length === 0) {
+    throw new Error("No questions found");
+  }
+
+  showQuestion();
+})
   .catch(err => {
     console.error(err);
     document.getElementById("questionText").innerText =
