@@ -25,8 +25,16 @@
 <div id="quiz">
   <h2 id="questionText">Loading question...</h2>
 
-  <button onclick="answer('Yes')">Yes</button>
-  <button onclick="answer('No')">No</button>
+  <div id="buttons">
+    <button onclick="answer('Yes')">Yes</button>
+    <button onclick="answer('No')">No</button>
+  </div>
+
+  <div id="feedback" style="margin-top:20px;"></div>
+
+  <button id="nextBtn" onclick="nextQuestion()" style="display:none;">
+    Next Question →
+  </button>
 </div>
 
 <div id="result"></div>
@@ -34,56 +42,66 @@
 <script>
 let questions = [];
 let currentIndex = 0;
+let answered = false;
 
 fetch("./anantara_quiz_200_questions.json")
   .then(res => {
-    if (!res.ok) {
-      throw new Error("HTTP error " + res.status);
-    }
+    if (!res.ok) throw new Error("HTTP error " + res.status);
     return res.json();
   })
   .then(data => {
-    if (!data.categories || !Array.isArray(data.categories)) {
-      throw new Error("Invalid JSON structure: categories missing");
-    }
-
-    // Flatten all category questions
     questions = data.categories.flatMap(cat => cat.questions || []);
-
-    if (questions.length === 0) {
-      throw new Error("No questions found after flattening");
-    }
-
     showQuestion();
   })
   .catch(err => {
-    console.error("QUIZ LOAD ERROR:", err);
+    console.error(err);
     document.getElementById("questionText").innerText =
-      "⚠️ Failed to load quiz questions.\nOpen DevTools → Console.";
+      "⚠️ Failed to load quiz questions.";
   });
 
 function showQuestion() {
   const q = questions[currentIndex];
+  answered = false;
+
   document.getElementById("questionText").innerText = q.question;
+  document.getElementById("feedback").innerHTML = "";
+  document.getElementById("nextBtn").style.display = "none";
+
+  document.querySelectorAll("#buttons button").forEach(btn => {
+    btn.disabled = false;
+  });
 }
 
 function answer(choice) {
+  if (answered) return;
+  answered = true;
+
   const q = questions[currentIndex];
+  const correct = choice === q.answer;
 
-  const explanation = q.explanation || "No explanation provided.";
+  document.getElementById("feedback").innerHTML = `
+    <p style="font-size:18px;">
+      ${correct ? "✅ Correct" : "❌ Incorrect"}
+    </p>
+    <p><strong>Answer:</strong> ${q.answer}</p>
+  `;
 
-  alert(
-    choice === q.answer
-      ? "✅ Correct!\n\n" + explanation
-      : "❌ Incorrect.\n\n" + explanation
-  );
+  document.querySelectorAll("#buttons button").forEach(btn => {
+    btn.disabled = true;
+  });
 
+  document.getElementById("nextBtn").style.display = "inline-block";
+}
+
+function nextQuestion() {
   currentIndex++;
   if (currentIndex < questions.length) {
     showQuestion();
   } else {
     document.getElementById("questionText").innerText =
       "🎉 Quiz completed!";
+    document.getElementById("buttons").style.display = "none";
+    document.getElementById("nextBtn").style.display = "none";
   }
 }
 </script>
