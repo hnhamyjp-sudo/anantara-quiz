@@ -16,51 +16,55 @@
       font-size: 16px;
       cursor: pointer;
     }
-    .correct { color: #4CAF50; }
-    .wrong { color: #F44336; }
   </style>
 </head>
 <body>
 
 <h1>Anantara Knowledge Quiz</h1>
-<div id="quiz"></div>
+
+<div id="quiz">
+  <h2 id="questionText">Loading question...</h2>
+
+  <button onclick="answer('Yes')">Yes</button>
+  <button onclick="answer('No')">No</button>
+</div>
+
 <div id="result"></div>
 
 <script>
 let questions = [];
-let index = 0;
+let currentIndex = 0;
 
 fetch("anantara_quiz_200_questions.json")
-  .then(res => res.json())
+  .then(response => response.json())
   .then(data => {
     questions = data;
     showQuestion();
+  })
+  .catch(error => {
+    document.getElementById("questionText").innerText =
+      "Failed to load questions.";
+    console.error(error);
   });
 
 function showQuestion() {
-  const q = questions[index];
-  document.getElementById("quiz").innerHTML = `
-    <h3>${q.question}</h3>
-    <button onclick="answer('Yes')">Yes</button>
-    <button onclick="answer('No')">No</button>
-  `;
-  document.getElementById("result").innerHTML = "";
+  const q = questions[currentIndex];
+  document.getElementById("questionText").innerText = q.question;
 }
 
 function answer(choice) {
-  const q = questions[index];
-  if (choice === q.answer) {
-    document.getElementById("result").innerHTML =
-      `<p class="correct">Correct ✔</p><p>${q.explanation}</p>`;
+  const q = questions[currentIndex];
+  alert(
+    choice === q.answer
+      ? "✅ Correct!\n\n" + q.explanation
+      : "❌ Incorrect.\n\n" + q.explanation
+  );
+  currentIndex++;
+  if (currentIndex < questions.length) {
+    showQuestion();
   } else {
-    document.getElementById("result").innerHTML =
-      `<p class="wrong">Wrong ✘</p><p>Correct answer: ${q.answer}</p><p>${q.explanation}</p>`;
-  }
-  index++;
-  if (index < questions.length) {
-    setTimeout(showQuestion, 2500);
-  } else {
-    document.getElementById("quiz").innerHTML = "<h2>Quiz completed 🎉</h2>";
+    document.getElementById("questionText").innerText =
+      "🎉 Quiz completed!";
   }
 }
 </script>
