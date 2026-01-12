@@ -35,16 +35,24 @@
 let questions = [];
 let currentIndex = 0;
 
-fetch("anantara_quiz_200_questions.json")
-  .then(response => response.json())
+fetch("./anantara_quiz_200_questions.json")
+  .then(res => {
+    if (!res.ok) {
+      throw new Error("HTTP error " + res.status);
+    }
+    return res.json();
+  })
   .then(data => {
+    if (!Array.isArray(data) || data.length === 0) {
+      throw new Error("Question file is empty or invalid");
+    }
     questions = data;
     showQuestion();
   })
-  .catch(error => {
+  .catch(err => {
+    console.error(err);
     document.getElementById("questionText").innerText =
-      "Failed to load questions.";
-    console.error(error);
+      "⚠️ Failed to load quiz questions.\nCheck JSON file path.";
   });
 
 function showQuestion() {
@@ -54,11 +62,13 @@ function showQuestion() {
 
 function answer(choice) {
   const q = questions[currentIndex];
+
   alert(
     choice === q.answer
       ? "✅ Correct!\n\n" + q.explanation
       : "❌ Incorrect.\n\n" + q.explanation
   );
+
   currentIndex++;
   if (currentIndex < questions.length) {
     showQuestion();
